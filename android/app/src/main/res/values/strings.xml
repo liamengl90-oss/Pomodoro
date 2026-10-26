@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ESPER Focus</string>
+    <string name="title_activity_main">ESPER Focus</string>
+    <string name="package_name">app.esper.focus</string>
+    <string name="custom_url_scheme">app.esper.focus</string>
+</resources>
